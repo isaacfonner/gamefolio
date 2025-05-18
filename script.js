@@ -59,10 +59,10 @@ if (item == 1) {
 alert("submisson form not ready yet :(")
 } 
 if (item == 2) {
-window.location.href = "/howtoplay.html"
+window.location.href = "howtoplay.html"
 } 
 if (item == 3) {
-window.location.href = "/rewards.html"
+window.location.href = "rewards.html"
 } 
 if (item == 4) {
 window.location.href = "https://hackclub.com"
